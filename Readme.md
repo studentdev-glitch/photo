@@ -3,7 +3,7 @@
 
 
 ## Live Project
-You can view the live project here: [Live Photography Website](https://your-live-project-link.github.io) # Gallery Website
+You can view the live project here: [Live Photography Website](https://studentdev-glitch.github.io/photo/) # Gallery Website
 
 ## Features
 This project is a website designed using HTML and CSS. The goal is to provide a functional and visually appealing layout of a gallery website.
